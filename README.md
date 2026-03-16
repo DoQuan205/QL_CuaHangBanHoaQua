@@ -1,4 +1,4 @@
-# QL_CuaHangBanHoaQua
+# QL_CuaHangDoGiaDung
 Một cửa hàng kinh doanh đồ gia dụng muốn xây dựng website đặt hàng trực tuyến để khách hàng có thể xem sản phẩm và đặt mua dễ dàng. Cửa 
 Hệ thống cho phép:
 •	Khách hàng xem danh sách sản phẩm
