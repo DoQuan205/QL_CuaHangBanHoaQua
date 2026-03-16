@@ -1,7 +1,7 @@
 # QL_CuaHangBanHoaQua
-Một cửa hàng kinh doanh hoa quả tươi muốn xây dựng website đặt hàng trực tuyến để khách hàng có thể xem sản phẩm và đặt mua dễ dàng.
+Một cửa hàng kinh doanh đồ gia dụng muốn xây dựng website đặt hàng trực tuyến để khách hàng có thể xem sản phẩm và đặt mua dễ dàng. Cửa 
 Hệ thống cho phép:
-•	Khách hàng xem danh sách hoa quả
+•	Khách hàng xem danh sách sản phẩm
 •	Đặt hàng online
 •	Thanh toán
 •	Theo dõi đơn hàng
@@ -23,7 +23,7 @@ Cửa hàng sử dụng hệ thống để:
 
 Quy trình hoạt động của hệ thống
 Bước 1:
-Khách hàng truy cập website → xem danh sách hoa quả.
+Khách hàng truy cập website → xem danh sách đồ gia dụngdụng.
 Bước 2:
 Khách chọn sản phẩm → thêm vào giỏ hàng.
 Bước 3:
@@ -48,8 +48,7 @@ Các chức năng chính của website
 Khách hàng:
 •	Đăng ký
 •	Đăng nhập
-•	Xem sản phẩm
-•	Tìm kiếm hoa quả
+•	Xem sảphẩm
 •	Thêm vào giỏ hàng
 •	Đặt hàng
 •	Xem lịch sử mua
